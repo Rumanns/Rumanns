@@ -14,13 +14,17 @@
 
 
 
-<a href="https://www.linkedin.com/in/jose-valdeir-paiva-araujo/">Linkedin</a>
+<a href="https://web.digitalinnovation.one/users/valdeircomv?tab=achievements">Digital Innovation One</a>
 
-<a href="https://web.digitalinnovation.one/users/valdeircomv?tab=achievements">DIO</a>
+
 
 <a href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=0EBAA7FAD8CC6BC64E270AC8E4379751#">Lattes</a>
 
-<a href="https://www.instagram.com/">Instagram</a>
 
-<a href="https://www.linkedin.com/in/jose-valdeir-paiva-araujo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="150"></a>
+
+<p align="center"
+   <a href="https://www.instagram.com/valdeircomv/"><img src="https://media-exp3.licdn.com/dms/image/C510BAQEBW-TswoZ0CA/company-logo_100_100/0/1519910609548?e=1634169600&v=beta&t=KfUhMsnPoJzpKSOFySYaGoZUj7Oop-uC49XOks7zq4Y" height="45">
+</a>
+   <a href="https://www.linkedin.com/in/jose-valdeir-paiva-araujo/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30">
+</a></p>
 
