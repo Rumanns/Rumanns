@@ -20,3 +20,7 @@
 
 <a href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=0EBAA7FAD8CC6BC64E270AC8E4379751#">Lattes</a>
 
+<a href="https://www.instagram.com/">Instagram</a>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="150" href="https://www.linkedin.com/in/jose-valdeir-paiva-araujo/">
+
