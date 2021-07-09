@@ -18,17 +18,5 @@
 
 <a href="https://web.digitalinnovation.one/users/valdeircomv?tab=achievements">DIO</a>
 
-<a href="[**http://lattes.cnpq.br/8786533272727669**](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=0EBAA7FAD8CC6BC64E270AC8E4379751#)">Lattes</a>
-
-
-
-
-
-
-
-![image-20210709194021217](C:\Users\José Valdeir\AppData\Roaming\Typora\typora-user-images\image-20210709194021217.png)
-
-
-
-
+<a href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=0EBAA7FAD8CC6BC64E270AC8E4379751#">Lattes</a>
 
