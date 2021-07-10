@@ -17,17 +17,17 @@
 	<a href="https://www.rumanns.com/"><img src="https://i.pinimg.com/originals/31/9c/f6/319cf61750fa06411da283131a41f2aa.jpg" height="40"></a>
 </p>
 
-##### :green_book: Unlocked Skills :unlock::
+#### :green_book: Unlocked Skills :unlock::
 
-_Python, Excel, HTML, CSS;_
+- :computer: _Python, Excel, HTML, CSS;_
 
-_Photoshop, Illustrator, Blender._
+- :art: _Photoshop, Illustrator, Blender._
 
-##### :orange_book: Unlocking Skills :closed_lock_with_key::
+#### :orange_book: Unlocking Skills :closed_lock_with_key::
 
-_Java, PostgreSQL, MySQL, Git e GitHub._
+- :battery: _Java, PostgreSQL, MySQL, Git e GitHub._ :running:
 
-##### :closed_book: Skills to Unlock:lock::
+#### :closed_book: Skills to Unlock:lock::
 
-_Machine Learn, IA, Angular, Kotlin, Android, Django, JavaScript, Software Engineering._
+- :satellite: _Machine Learn, IA, Angular, Kotlin, Android, Django, JavaScript._
 
