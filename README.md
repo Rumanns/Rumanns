@@ -13,7 +13,8 @@
 
 
 <p align="center">
-    <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rumanns&amp;theme=synthwave" style="max-width:100%;"></p>
+    <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rumanns&amp;theme=synthwave"></p>
+
 
 
 
