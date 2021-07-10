@@ -1,4 +1,6 @@
-### Hello World! Finally, I'm on and connected! :computer:
+### Hello World! I am José Valdeir! :man_technologist: :robot:
+
+#### Finally, I'm on and connected! :computer:
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -38,3 +40,4 @@
 #### :closed_book: Skills to Unlock:lock::
 
 - :satellite: _Machine Learn, IA, Angular, Kotlin, Android, Django, JavaScript._
+
