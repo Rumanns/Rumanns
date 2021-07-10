@@ -1,4 +1,4 @@
-### Hello World! I am José Valdeir! :man_technologist: :robot:
+## Hello World! I am José Valdeir! :man_technologist: :robot:
 
 #### Finally, I'm on and connected! :computer:
 
@@ -27,17 +27,17 @@
 
 
 
-#### :green_book: Unlocked Skills :unlock::
+### :green_book: Unlocked Skills :unlock::
 
 - :computer: _Python, Excel, HTML, CSS;_
 
 - :art: _Photoshop, Illustrator, Blender._
 
-#### :orange_book: Unlocking Skills :closed_lock_with_key::
+### :orange_book: Unlocking Skills :closed_lock_with_key::
 
 - :battery: _Java, PostgreSQL, MySQL, Git e GitHub._ :running:
 
-#### :closed_book: Skills to Unlock:lock::
+### :closed_book: Skills to Unlock:lock::
 
 - :satellite: _Machine Learn, IA, Angular, Kotlin, Android, Django, JavaScript._
 
