@@ -11,13 +11,16 @@
 
 
 
+
 <p align="center">
     <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rumanns&amp;theme=synthwave" style="max-width:100%;"></p>
 
 
 
+
 <p align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumanns&amp;layout=compact&amp;langs_count=16&amp;theme=synthwave" style="max-width:100%;"></p>
+
 
 
 <p align="center"><a href="https://web.digitalinnovation.one/users/valdeircomv?tab=achievements"><img src="https://christyschott.github.io/portfolio.github.io/assets/img/about/7.png" height="40"></a>
@@ -26,18 +29,15 @@
 <a href="https://www.rumanns.com/"><img src="https://i.pinimg.com/originals/31/9c/f6/319cf61750fa06411da283131a41f2aa.jpg" height="40"></a></p>
 
 
-
 ### :green_book: Unlocked Skills :unlock::
 
-- :computer: _Python, Excel, HTML, CSS;_
-
-- :art: _Photoshop, Illustrator, Blender._
+- :computer: <img src="https://img.shields.io/badge/-Python-333333?style=flat&amp;logo=Python&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-Hmtl 5-333333?style=flat&amp;logo=Html5&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-CSS 3-333333?style=flat&amp;logo=Css3&amp;logoColor=FF9700" style="max-width:100%;">
 
 ### :orange_book: Unlocking Skills :closed_lock_with_key::
 
-- :battery: _Java, PostgreSQL, MySQL, Git e GitHub._ :running:
+- :gear: <img src="https://img.shields.io/badge/-Java-333333?style=flat&amp;logo=Java&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&amp;logo=PostgreSQL&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&amp;logo=MySQL&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=Git&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=GitHub&amp;logoColor=FF9700" style="max-width:100%;">
 
 ### :closed_book: Skills to Unlock:lock::
 
-- :satellite: _Machine Learn, IA, Angular, Kotlin, Android, Django, JavaScript._
+- :hourglass: <img src="https://img.shields.io/badge/-Angular-333333?style=flat&amp;logo=Angular&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-Kotlin-333333?style=flat&amp;logo=Kotlin&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-Android-333333?style=flat&amp;logo=Android&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-Django-333333?style=flat&amp;logo=Django&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=JavaScript&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-MachineLearn-333333?style=flat&amp;logo=MachineLearn&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-IA-333333?style=flat&amp;logo=IA&amp;logoColor=FF9700" style="max-width:100%;">
 
