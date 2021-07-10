@@ -1,6 +1,6 @@
-## Hello World! I am José Valdeir! :man_technologist: :robot:
+# Hello World! I am José Valdeir! :man_technologist: :robot:
 
-#### Finally, I'm on and connected! :computer:
+## Finally, I'm on and connected! :computer:
 
 ---------------------------------------------------------------------------------------------------------
 
