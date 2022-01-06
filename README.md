@@ -45,6 +45,6 @@
 
 ### :closed_book: Skills to Unlock:lock::
 
-- :hourglass: <img src="https://img.shields.io/badge/-Kotlin-333333?style=flat&amp;logo=Kotlin&amp;logoColor=786FAA" style="max-width:100%;"><img src="https://img.shields.io/badge/-Android-333333?style=flat&amp;logo=Android&amp;logoColor=40B549" style="max-width:100%;"> <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=JavaScript&amp;logoColor=EED614" style="max-width:100%;"> 
+- :hourglass: <img src="https://img.shields.io/badge/-Kotlin-333333?style=flat&amp;logo=Kotlin&amp;logoColor=786FAA" style="max-width:100%;"> <img src="https://img.shields.io/badge/-Android-333333?style=flat&amp;logo=Android&amp;logoColor=40B549" style="max-width:100%;"> <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=JavaScript&amp;logoColor=EED614" style="max-width:100%;"> 
 - :robot: <img src="https://img.shields.io/badge/-MachineLearn-333333?style=flat&amp;logo=MachineLearn&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-IA-333333?style=flat&amp;logo=IA&amp;logoColor=FF9700" style="max-width:100%;">
 
