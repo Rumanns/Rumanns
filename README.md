@@ -37,14 +37,14 @@
 
 ### :green_book: Unlocked Skills :unlock::
 
-- :computer: <img src="https://img.shields.io/badge/-Python-333333?style=flat&amp;logo=Python&amp;logoColor=386F9F" style="max-width:100%;"> <img src="https://img.shields.io/badge/-Hmtl 5-333333?style=flat&amp;logo=Html5&amp;logoColor=E96228" style="max-width:100%;"> <img src="https://img.shields.io/badge/-CSS 3-333333?style=flat&amp;logo=Css3&amp;logoColor=29A4D8" style="max-width:100%;">
+- :computer: <img src="https://img.shields.io/badge/-Python-333333?style=flat&amp;logo=Python&amp;logoColor=386F9F" style="max-width:100%;"> <img src="https://img.shields.io/badge/-Hmtl 5-333333?style=flat&amp;logo=Html5&amp;logoColor=E96228" style="max-width:100%;"> <img src="https://img.shields.io/badge/-CSS 3-333333?style=flat&amp;logo=Css3&amp;logoColor=29A4D8" style="max-width:100%;"><img src="https://img.shields.io/badge/-MySQL-333333?style=flat&amp;logo=MySQL&amp;logoColor=E08A4F" style="max-width:100%;"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=GitHub&amp;logoColor=FFFFFF" style="max-width:100%;">
 
 ### :orange_book: Unlocking Skills :closed_lock_with_key::
 
-- :gear: <img src="https://img.shields.io/badge/-Java-333333?style=flat&amp;logo=Java&amp;logoColor=68C8EA" style="max-width:100%;"> <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&amp;logo=PostgreSQL&amp;logoColor=2E78BC" style="max-width:100%;"> <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&amp;logo=MySQL&amp;logoColor=E08A4F" style="max-width:100%;"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=GitHub&amp;logoColor=FFFFFF" style="max-width:100%;">
+- :gear: <img src="https://img.shields.io/badge/-Java-333333?style=flat&amp;logo=Java&amp;logoColor=68C8EA" style="max-width:100%;"> <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&amp;logo=PostgreSQL&amp;logoColor=2E78BC" style="max-width:100%;"> 
+- :robot: <img src="https://img.shields.io/badge/-MachineLearn-333333?style=flat&amp;logo=MachineLearn&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-IA-333333?style=flat&amp;logo=IA&amp;logoColor=FF9700" style="max-width:100%;">
 
-### :closed_book: Skills to Unlock:lock::
+### :closed_book: Skills to Unlock 🔐:
 
 - :hourglass: <img src="https://img.shields.io/badge/-Kotlin-333333?style=flat&amp;logo=Kotlin&amp;logoColor=786FAA" style="max-width:100%;"> <img src="https://img.shields.io/badge/-Android-333333?style=flat&amp;logo=Android&amp;logoColor=40B549" style="max-width:100%;"> <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=JavaScript&amp;logoColor=EED614" style="max-width:100%;"> 
-- :robot: <img src="https://img.shields.io/badge/-MachineLearn-333333?style=flat&amp;logo=MachineLearn&amp;logoColor=FF9700" style="max-width:100%;"> <img src="https://img.shields.io/badge/-IA-333333?style=flat&amp;logo=IA&amp;logoColor=FF9700" style="max-width:100%;">
 
