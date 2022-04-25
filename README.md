@@ -1,8 +1,8 @@
 
 
-# Hello World! I am José Valdeir! :man_technologist: :man_scientist:
+# Hello world! I'm José Valdeir! :man_technologist: :man_scientist:
 
-## We all are data scientists! :computer:
+## Data and Science :computer: :heart:
 
 ---------------------------------------------------------------------------------------------------------
 
