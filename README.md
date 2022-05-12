@@ -2,7 +2,7 @@
 
 # Hello world! I'm José Valdeir! :man_technologist: :man_scientist:
 
-## Data and Science :computer: :heart:
+## Data Science :computer: :heart:
 
 ---------------------------------------------------------------------------------------------------------
 
