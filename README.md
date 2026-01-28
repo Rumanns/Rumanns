@@ -31,8 +31,8 @@
 
 <p align="center">
 <a href="https://s3.us-east-2.amazonaws.com/rumanns.com/index.html"><img src="https://img.icons8.com/?size=100&id=qP5vnq8kU3Yy&format=png&color=000000" height="40"></a>
-<a href="https://www.linkedin.com/in/call.rumanns/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"></a>
-<a href="https://www.instagram.com/valdeircomv/"><img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" height="40"></a>
+<a href="https://www.linkedin.com/in/jose-valdeir/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"></a>
+<a href="https://www.instagram.com/call.rumanns/"><img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" height="40"></a>
 
 
 
